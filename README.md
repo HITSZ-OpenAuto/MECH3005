@@ -1,4 +1,6 @@
 # MECH3005 - 机电系统控制基础
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![平时作业20%](https://img.shields.io/badge/平时作业-20%25-wheat)
@@ -13,14 +15,23 @@
 - 王昕
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [Nyquist 判据更常用的方法 (Bilibili)](https://www.bilibili.com/video/BV1ikWneMEhc/)：课本介绍的 Nyquist 判据方法不是很好用，推荐参考此视频。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 2025 秋考试不算很难，总分平均分估计有 90 分。
 
 ## 平时分与选做题
+<!-- TOML-SECTION: title="平时分与选做题" -->
+
+<!-- TOML-ITEM: id="item-平时分与选做题-1" -->
 
 按百分制的平时分里有 20 分选做题：写一篇小论文；课上没说清楚是否是选做额外加分（100+20=120）、作业说明里也没有说，但就最后成绩来看是不做 100-20——并非「选做题」🤣
 
