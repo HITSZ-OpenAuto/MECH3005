@@ -1,0 +1,67 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "README.md": {
+    "size": 1233,
+    "time": 1791961668,
+    "hash": "3067b0ab01c61d2627500a4c5264ae5bfd3b6074"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "assignments/2025秋答案/Sol&Assignment#3-2025 Fall.pdf": {
+    "size": 421806,
+    "time": 1767365915,
+    "hash": "8e388e8a1c1965661cbc2bdd5d823e018cea1a15"
+  },
+  "assignments/2025秋答案/Sol&Assignment#4-2025 Fall.pdf": {
+    "size": 713442,
+    "time": 1767365915,
+    "hash": "8e388e8a1c1965661cbc2bdd5d823e018cea1a15"
+  },
+  "assignments/2025秋答案/第二次作业答案.pdf": {
+    "size": 2501710,
+    "time": 1767365915,
+    "hash": "8e388e8a1c1965661cbc2bdd5d823e018cea1a15"
+  },
+  "assignments/2025秋答案/答案—第一次作业.pdf": {
+    "size": 7871078,
+    "time": 1767365915,
+    "hash": "8e388e8a1c1965661cbc2bdd5d823e018cea1a15"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  },
+  "readme.toml": {
+    "size": 1142,
+    "time": 1773428247,
+    "hash": "260c765b0144d648ebe47109ee1ed8de709905c0"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1767274563,
+    "hash": "d49e0274583a571d1e9b6b35095a1440966b808a"
+  }
+}
