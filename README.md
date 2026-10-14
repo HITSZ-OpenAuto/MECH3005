@@ -1,11 +1,5 @@
 # MECH3005 - 机电系统控制基础
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业20%](https://img.shields.io/badge/平时作业-20%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 2025 秋，本课程由两位老师分别讲授半学期课程。
 
